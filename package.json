@@ -1,0 +1,12 @@
+{
+  "name": "graphql-doc-gen",
+  "version": "1.0.0",
+  "description": "Generate markdown documentation for your  GraphQL schema with ease with this generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Berlin",
+  "license": "MIT"
+}
