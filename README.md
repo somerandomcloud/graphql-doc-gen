@@ -8,6 +8,6 @@ Example: https://gist.github.com/somerandomcloud/9d76fc2e9a1dd0a62e457a776ebab76
 
 Use [Transform.tools GraphQL -> Introspection JSON](https://transform.tools/graphql-to-introspection-json) to make your schema into a json, and replace the existing graphql-format.json example JSON with your own (`CTRL + A` + `DEL`)
 
-Then just run `node .` and paste the documentation wherever you need it.
+Then just run `node .` and paste the documentation from `finalres.md` wherever you need it.
 
 Note: Will probably break links with Gitbook

@@ -72,7 +72,7 @@ schema.__schema.types.forEach(element => {
 
 mdfinal = schemalinks + enumlinks + inoblinks + scalarlinks + mdschemas + mdenums + mdinob + mdscalar
 
-fs.writeFile(__dirname + '/./test.md', mdfinal, err => {
+fs.writeFile(__dirname + '/./finalres.md', mdfinal, err => {
     if (err) {
       console.error(err);
     }
